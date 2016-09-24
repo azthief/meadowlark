@@ -1,0 +1,46 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect": "^3.4.1",
+    "connect-rest": "^2.9.0",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.1",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "express-logger": "0.0.3",
+    "express-session": "^1.14.0",
+    "express3-handlebars": "^0.5.2",
+    "formidable": "^1.0.17",
+    "jquery-file-upload-middleware": "^0.1.7",
+    "loadtest": "^2.0.0",
+    "mongoose": "^4.6.0",
+    "morgan": "^1.7.0",
+    "nodemailer": "^0.7.1",
+    "session-mongoose": "^0.5.2",
+    "vhost": "^3.0.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^0.4.5",
+    "grunt-cafe-mocha": "^0.1.13",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-exec": "^0.4.7",
+    "grunt-hashres": "^0.4.1",
+    "grunt-lint-pattern": "^0.1.4",
+    "mocha": "^2.5.3",
+    "restler": "^3.4.0",
+    "zombie": "^4.2.1"
+  }
+}
